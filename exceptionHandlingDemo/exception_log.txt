@@ -1,4 +1,0 @@
-
-
-Exception occurred at 2025-02-24 11:30:24 - com.exceptionHandlingDemo.greaterMarksException
-Exception occurred at 2025-02-24 13:07:09 - com.exceptionHandlingDemo.greaterMarksException
