@@ -1,8 +1,0 @@
-package com.exceptionHandlingDemo;
-
-public class student {
-private int rollno;
-private String name;
-private double marks;
-
-}

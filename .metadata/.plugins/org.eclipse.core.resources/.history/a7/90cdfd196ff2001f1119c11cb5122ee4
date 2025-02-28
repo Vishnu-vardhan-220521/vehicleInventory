@@ -1,9 +1,0 @@
-package com.exceptionHandlingDemo;
-
-public class customExceptionDemo {
-
-	public static void main(String[] args) {
-student s1=new student(1001,"sai",102);
-	}
-
-}

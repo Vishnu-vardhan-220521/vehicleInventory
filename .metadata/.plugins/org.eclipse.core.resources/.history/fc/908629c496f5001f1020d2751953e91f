@@ -1,9 +1,0 @@
-package com.gym;
-
-public class User {
-private String fname;
-private String lname;
-private String uname;
-private String password;
-
-}
